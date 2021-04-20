@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://planetr.io/img/logo-github.png"></img>
+</div>
+
 # Planetr Demo: demo-sshd
 Access the decentralized container through SSH client.
 
